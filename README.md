@@ -1,4 +1,4 @@
-<h3 align="center"> Hewo, I'm <a href="https://iconical.dev">Iconical</a> 👋 </h3>
+<h3 align="center"> Hello, I'm <a href="https://iconical.dev">Iconical</a> 👋 </h3>
 <h2 align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=3000&color=AC1C23&center=true&vCenter=true&random=false&width=520&height=22&lines=A+Game+%26+Full-Stack+Developer" alt="Typing SVG" /></a>
 </h2>
@@ -10,7 +10,7 @@
 - Developing games in Unreal Engine and web apps with Next.js.  
 
 ### ☕ Support my madness: 
- - If you enjoy my work, find it useful, or just want to fuel my late-night coding sprees, [Buy me a coffee](https://www.buymeacoffee.com/iconical) and keep the madness alive!  
+ - If you enjoy my work, find it useful, or just want to fuel my late-night coding sprees, [Buy me a coffee](https://iconical.dev/sponsor) and keep the madness alive!  
 
   </div>
 </div>
@@ -18,27 +18,19 @@
 <br/>  
 
 <div align="left">
-  <h2 style="font-size: 1.5rem">Connect with me 💟</h2>
+  <h2 style="font-size: 1.5rem">💟 Connect with me</h2>
 </div>
-<div align="center">
-  <a href="https://x.com/imthatdevy" target="_blank">
-    <img src="src/images/icons/Social/twitter.svg" alt="Twitter/X" width="5%" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/imthatdev" target="_blank">
-    <img src="src/images/icons/Social/linkedin.svg" alt="LinkedIn" width="5%" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://discord.gg/ekabxWZ9u9" target="_blank">
-    <img src="src/images/icons/Social/discord.svg" alt="Discord" width="5%" style="margin-bottom: 5px;" />
-  </a>
+<div align="left" class="flex flex-row gap-2">
+  <p style="font-size: 1.2rem">You can find more ways to connect with me in here -></p>
   <a href="https://iconical.dev/" target="_blank">
-    <img src="src/images/icons/Social/website-pink.svg" alt="Website" width="5%" style="margin-bottom: 3px;" />
+    <img src="src/images/icons/Social/website-pink.svg" alt="Website" width="10%" />
   </a>
 </div>  
 
 <br>
 
 <div align="left">
-  <h2 style="font-size: 1.5rem" >My Skills 😇</h2>
+  <h2 style="font-size: 1.5rem" >😇 My Skills</h2>
 </div>
 
 <table>
@@ -92,7 +84,7 @@
 ---
  
 <div align="left">
-  <h2 style="font-size: 1.5rem" >My Stats 📊</h2>
+  <h2 style="font-size: 1.5rem" >📊 My Stats</h2>
 </div>
 <br>
 <details close>
@@ -101,20 +93,23 @@
 
 <div align="center">
 <a href="https://iconical.dev/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=imthatdev&theme=dark&show_icons=true&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Stats&title_color=ac1d24&icon_color=FCD0DA&text_color=FFFFFF&count_private=true&include_all_commits=true&" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=himinthevoid&theme=dark&show_icons=true&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Stats&title_color=ac1d24&icon_color=FCD0DA&text_color=FFFFFF&count_private=true&include_all_commits=true&" />
 </a>
 
 <a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=imthatdev&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=DD272700&ring=FCD0DA&stroke=ac1d24&fire=ac1d24&currStreakNum=FFFFFF&sideNums=ac1d24&currStreakLabel=ac1d24&sideLabels=FCD0DA&dates=FFFFFF"> </a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=himinthevoid&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=DD272700&ring=FCD0DA&stroke=ac1d24&fire=ac1d24&currStreakNum=FFFFFF&sideNums=ac1d24&currStreakLabel=ac1d24&sideLabels=FCD0DA&dates=FFFFFF"> </a>
 
 <a href="https://iconical.dev/">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthatdev&theme=dark&layout=compact&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Most%20Used%20Languages&title_color=ac1d24&text_color=FAF9F6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himinthevoid&theme=dark&layout=compact&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Most%20Used%20Languages&title_color=ac1d24&text_color=FAF9F6" />
 </a>
  
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iconical&theme=dark&bg_color=DD272700&hide_border=true&title_color=ac1d24&text_color=FAF9F6&icon_color=FAF9F6&line_height=20&custom_title=Laith%27s%20Time%20Spent%20on%20Coding&langs_count=6"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iconical&theme=dark&bg_color=DD272700&hide_border=true&title_color=ac1d24&text_color=FAF9F6&icon_color=FAF9F6&line_height=20&custom_title=Laith%27s%20Time%20Spent%20on%20Coding&langs_count=6">
+</a>
+
+<img align="center" src="https://presencekit-cards.iconical.dev/api/card/362301055976996864.svg?theme=dark&amp;layout=compact&amp;font=rounded&amp;accent=ac1c23&amp;radius=18" alt="Discord presence card" />
 </div>
-<p align="center"> <a href="https://github.com/imthatdev"><img src="https://github-profile-trophy.vercel.app/?username=imthatdev&theme=dark_dimmed&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="imthatdev" /></a> </p>
+
   
 </details>
 
@@ -122,14 +117,14 @@
 
 ### 📑 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[Release] feat: release v1.0.8 with theme motion enhancements, API improvements, and documentation updates](https://github.com/imthatdev/swush/commit/a8aecbeb2d7f59c27ab41024ca4a4bf4c57a9827)
-- [[Release] feat: release v1.0.6 with Vault UX and selection improvements, including file categorization fixes and enhanced bulk selection behavior](https://github.com/imthatdev/swush/commit/cf4d090f71e1c1a38bafc3e2091159561a727bd4)
-- [[Release] fix: update changelog for v1.0.4 release, enhance public file viewing logic, and normalize file payload typing &lpar;an attempt to resolve the issue in issue#1&rpar;, enforce anon from file settings, and clear lint warnings](https://github.com/imthatdev/swush/commit/3afd4f81bb8eb23c895e6d3753b379c58d24eb07)
+- [[Release] feat: release v1.0.8 with theme motion enhancements, API improvements, and documentation updates](https://github.com/himinthevoid/swush/commit/a8aecbeb2d7f59c27ab41024ca4a4bf4c57a9827)
+- [[Release] feat: release v1.0.6 with Vault UX and selection improvements, including file categorization fixes and enhanced bulk selection behavior](https://github.com/himinthevoid/swush/commit/cf4d090f71e1c1a38bafc3e2091159561a727bd4)
+- [[Release] fix: update changelog for v1.0.4 release, enhance public file viewing logic, and normalize file payload typing &lpar;an attempt to resolve the issue in issue#1&rpar;, enforce anon from file settings, and clear lint warnings](https://github.com/himinthevoid/swush/commit/3afd4f81bb8eb23c895e6d3753b379c58d24eb07)
 - [[Blog] Why Overpolished Projects Are Killing Developer Creativity](https://iconical.dev/blog/why-overpolished-projects-are-killing-developer-creativity)
 - [[Project] Swush](https://iconical.dev/projects/swush)
 <!-- BLOG-POST-LIST:END -->
 
 ---
   
-<h4 align="center"><a href="https://github.com/imthatdev"><img src="https://img.shields.io/github/license/imthatdev/imthatdev?color=ac1c23&logo=unlicense&logoColor=ac1c23&style=for-the-badge"></a>
+<h4 align="center"><a href="https://github.com/himinthevoid"><img src="https://img.shields.io/github/license/himinthevoid/himinthevoid?color=ac1c23&logo=unlicense&logoColor=ac1c23&style=for-the-badge"></a>
   <br><a href="https://iconical.dev/">©Iconical</a></h4>
